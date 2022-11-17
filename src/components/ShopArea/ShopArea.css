@@ -5,6 +5,11 @@
 
 }
 
+.Grid_of_Card {
+    display: grid;
+    /* grid-template-columns: repeat(1fr); */
+}
+
 
 .Main_Section {
     background-color: bisque;

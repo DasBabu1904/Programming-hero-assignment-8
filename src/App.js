@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <h1>This is travel site</h1>
-      <ShopArea></ShopArea>
+      <ShopArea className="container"></ShopArea>
     </div>
   );
 }
