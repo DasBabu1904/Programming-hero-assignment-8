@@ -1,0 +1,15 @@
+.Shop_Section {
+
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+
+}
+
+
+.Main_Section {
+    background-color: bisque;
+}
+
+.Cart_Section {
+    background-color: aqua;
+}
