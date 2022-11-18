@@ -1,3 +1,8 @@
 .Cart_Section {
     background-color: aqua;
 }
+
+.Sticky {
+    position: sticky;
+    top: 0;
+}
