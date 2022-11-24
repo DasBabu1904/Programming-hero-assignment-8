@@ -6,3 +6,14 @@
     position: sticky;
     top: 0;
 }
+
+.Button_style {
+    background-color: burlywood;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid brown;
+}
+
+.Showing_Chose {
+    /* display: none; */
+}
