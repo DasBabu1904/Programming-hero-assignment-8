@@ -13,7 +13,10 @@ function App() {
   // console.log(data)
   return (
     <div className="App">
-      <h1>This is travel site</h1>
+      <div className="Title_style">
+        <h1>This is travel site</h1>
+      </div>
+
       <ShopArea className="container"></ShopArea>
     </div>
   );

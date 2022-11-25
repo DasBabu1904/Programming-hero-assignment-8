@@ -21,7 +21,7 @@ const ShopCart = (props) => {
                         Contact:{phone}<br />
                         Email:{email}<br />
                     </Card.Text>
-                    <Button onClick={() => addToCart(props.product)} variant="primary" className="Button">Add to Cart {addCartIcon}</Button>
+                    <Button onClick={() => addToCart(props.product)} variant="primary" className="Button" key={_id}>Add to Cart {addCartIcon}</Button>
                 </Card.Body>
             </Card>
 
